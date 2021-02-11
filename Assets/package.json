@@ -1,0 +1,23 @@
+{
+    "name": "com.mopinon.tab-navigation",
+    "displayName": "Tab Navigation",
+    "version": "0.1.0",
+    "unity": "2020.2",
+    "description": "A simple tool for tab navigating.",
+    "author": "Mopinon (https://github.com/mopinon)",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mopinon/tab-navigation.git"
+    },
+    "bugs": { 
+    "url": "https://github.com/mopinon/tab-navigation/issues"
+    },
+    "homepage": "https://github.com/mopinon/tab-navigation"
+    "keywords": [
+    "tools",
+    "utility",
+    "ui",
+    "navigation",
+    "selectable"
+  ],
+}
