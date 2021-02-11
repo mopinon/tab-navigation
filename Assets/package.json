@@ -12,12 +12,12 @@
     "bugs": { 
     "url": "https://github.com/mopinon/tab-navigation/issues"
     },
-    "homepage": "https://github.com/mopinon/tab-navigation"
+    "homepage": "https://github.com/mopinon/tab-navigation",
     "keywords": [
     "tools",
     "utility",
     "ui",
     "navigation",
     "selectable"
-  ],
+  ]
 }
